@@ -1,0 +1,30 @@
+.body
+{
+   background-color: blue;
+   height: 100%;
+   width: 100%;
+}
+.container
+{
+  position: relative;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.h3
+{
+  background-color: rgb(255, 0, 149);
+  size: 20px;
+  position: relative;
+  top: 1px;
+  left: 50%;
+  transform:  translate(-50%,-50%);
+  border: 5px solid skyblue;
+}
+.love label{
+
+  font-size: x-large;
+}
+.lovebtn
+{
+  font-size: x-large;
+}
